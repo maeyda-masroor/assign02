@@ -1,0 +1,16 @@
+/* Add margin to create a gap */
+.custom-slide {
+    margin: 0 -10px; /* Adjust the gap between slides */
+    background: white;
+    padding: 50px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+
+
+  } 
+  .slider-container > div{
+    background: white;
+    margin: 0 -10px;
+
+  }
+  
